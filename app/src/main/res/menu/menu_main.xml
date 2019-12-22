@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.amani.gestioncafee.listMenu">
+   <item
+       android:id="@+id/Français"
+       android:title="Français"/>
+    <item
+        android:id="@+id/Anglais"
+        android:title="Anglais"/>
+    <item
+        android:id="@+id/se_décoonecter"
+        android:title="Déconnecter"/>
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/a"
+        android:title="HOME"
+        app:showAsAction="always" />
+
+
+</menu>
